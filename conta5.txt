@@ -204,4 +204,109 @@ Aquellos hechos que debido a la naturaleza de la transacción, modifican el capi
  - Aditivos
  - Controladores
 
+V Si la empresa inicia sus actividades sin deudas con terceros, el activo y capital serán afectados, aumentando ambos
+F Si la empresa inicia sus actividades con deudas con terceros, el activo y capital serán afectados, aumentando ambos
+V Si la empresa inicia sus actividades con deudas con terceros, el activo, pasivo y capital serán afectados, aumentando
+F Si la empresa inicia sus actividades sin deudas con terceros, el activo, pasivo y capital serán afectados, aumentando
+
+Adquiere mercaderías por un valor de Bs. 5,000 según factura N° 294, al contado.
+ + El activo "Inventario de Mercadenias" aumenta en Bs. 5,000.
+ - El activo "Inventario de Mercaderias" disminuye en Bs. 5,000.
+ - El pasivo "Inventario de Mercaderias" aumenta en Bs. 5,000.
+ + El activo "Caja" disminuye en Bs. 5,000.
+ - El activo "Caja" aumenta en Bs. 5,000.
+ - El pasivo "Caja" aumenta en Bs. 5,000.
+ + Esta operación es un hecho permutativo.
+ - Esta operación es un hecho modificativo.
+ 
+El Sr. Pedro Chávez para garantizar su deuda de Bs. 2,000 acepta una letra de cambio por Bs 1,000 a 90 días vista.
+ + El pasivo "Documentos a Pagar" aumenta en Bs. 1,000.
+ - El activo "Documentos a Pagar" aumenta en Bs. 1,000.
+ - El pasivo "Documentos a Pagar" disminuye en Bs. 1,000.
+ + El pasivo "Cuentas a Pagar" disminuye en Bs. 1,000.
+ - El activo "Cuentas a Pagar" disminuye en Bs. 1,000.
+ - El pasivo "Cuentas a Pagar" aumenta en Bs. 1,000.
+
+Página: 99
+Se adquiere mercaderías por un valor de Bs. 6,000 según factura N° 2343 de la Empresa Industrial "La Transformadora", a crédito a 45 días plazo.
+ + El activo "Inventario de Mercaderías" aumenta en Bs. 6,000.
+ - El pasivo "Inventario de Mercaderías" aumenta en Bs. 6,000.
+ - El activo "Inventario de Mercaderías" disminuye en Bs. 6,000.
+ + El pasivo "Cuentas a pagar" aumenta en Bs. 6,000.
+ - El activo "Cuentas a pagar" aumenta en Bs. 6,000.
+ - El pasivo "Cuentas a pagar" disminuye en Bs. 6,000.
+ + Esta operación es un hecho permutativo.
+ - Esta operación es un hecho modificativo.
+ 
+ Se paga la deuda con compromiso verbal de pago a "Mueblería Vallejos" Bs. 1,000 en efectivo.
+  + El activo "Caja" o efectivo disminuye en Bs. 1,000.
+  - El pasivo "Caja" o efectivo disminuye en Bs. 1,000.
+  - El activo "Caja" o efectivo aumenta en Bs. 1,000.
+  + El pasivo "Cuentas a pagar" disminuye en Bs. 1,000.
+  - El activo "Cuentas a pagar" disminuye en Bs. 1,000.
+  - El pasivo "Cuentas a pagar" aumenta en Bs. 1,000.
+  + Esta operación es un hecho permutativo.
+  - Esta operación es un hecho modificativo.
+
+El propietario Sr. Pedro Chávez, realiza un aporte adicional en efectivo de Bs. 2,000 y mercaderías con un valor de Bs. 3,000.
+ + Los activos "Caja" e "Inventario de Mercaderías" aumentan en Bs. 2,000.
+ - Los pasivos "Caja" e "Inventario de Mercaderías" aumentan en Bs. 2,000.
+ - Los activos "Caja" e "Inventario de Mercaderías" disminuyen en Bs. 2,000.
+ + El "Capital o Patrimonio Neto" aumenta en Bs. 5,000.
+ - El "Capital o Patrimonio Neto" disminuye en Bs. 5,000.
+ - Esta operación es un hecho permutativo.
+ + Esta operación es un hecho modificativo.
+ 
+
+Se vende mercaderías por un valor de Bs. 9,000 cuyo costo es de Bs. 5,000, obteniendose una utilidad de Bs. 4,000.
+ + El activo "Caja" aumenta en Bs. 9,000.
+ - El activo "Caja" aumenta en Bs. 5,000.
+ - El activo "Caja" disminuye en Bs. 4,000.
+ + El activo "Inventario de Mercaderías" disminuye en Bs. 5,000
+ - El activo "Inventario de Mercaderías" aumenta en Bs. 9,000
+ - El activo "Inventario de Mercaderías" disminuye en Bs. 4,000
+ + El "Capital o Patrimonio Neto" aumenta en Bs. 4,000.
+ - El "Capital o Patrimonio Neto" aumenta en Bs. 9,000.
+ - El "Capital o Patrimonio Neto" disminuye en Bs. 5,000.
+ - Esta operación es un hecho permutativo.
+ + Esta operación es un hecho modificativo.
+
+Página: 102
+Se paga en efectivo el alquiler de la tienda Bs. 1,000 en efectivo.
+ + El activo "Caja" disminuye en Bs. 1,000.
+ - El pasivo "Caja" disminuye en Bs. 1,000.
+ - El activo "Caja" aumenta en Bs. 1,000.
+ + El "Capital o Patrimonio Neto" disminuye en Bs. 1,000.
+ - El "Capital o Patrimonio Neto" aumenta en Bs. 1,000.
+ - Esta operación es un hecho permutativo.
+ + Esta operación es un hecho modificativo.
+ 
+ El propietario Sr. Pedro Chávez retira fondos para cubrir gastos personales por Bs. 1,000
+  + El activo "Caja" disminuye en Bs. 1,000.
+  - El pasivo "Caja" disminuye en Bs. 1,000.
+  - El activo "Caja" aumenta en Bs. 1,000.
+  + El "Capital o Patrimonio Neto" disminuye en Bs.1,000.
+  - El "Capital o Patrimonio Neto" aumenta en Bs.1,000.
+  - Esta operación es un hecho permutativo.
+  + Esta operación es un hecho modificativo.
+  
+ V Cada transacción debe afectar por lo menos dos partidas del balance.
+ F Cada transacción afecta solo a una partida del balance.
+ 
+ V Los efectos de las transacciones deben expresaarse en términos monetarios.
+ F Los efectos de las transacciones no deben expresaarse en términos monetarios.
+ 
+ V Los efectos de las transacciones deben mantener balanceada la ecuación contable.
+ F Los efectos de las transacciones cambian el balance de la ecuación contable.
+ 
+
+
+
+
+
+ 
+
+
+
+
 
