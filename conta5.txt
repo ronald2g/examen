@@ -1,0 +1,207 @@
+Módulo: Contabilidad
+Tema: Ecuación Fundamental
+Número de preguntas: 15
+Puntaje por pregunta: 5
+
+
+La contabilidad se basa en tres elementos fundamentales que son:
+ + Activo o Derechos
+ + Paisvo u Obligaciones con terceros
+ + Capital o Patrimonio
+ - Sociedades colectivas
+ - Empresas comerciales
+ - Dueños o socios
+ - Directores y administradores
+ - Entidades financieras
+
+
+Conjunto de bienes, valores y derechos que posee en propiedad la empresa.
+ + Activo o derechos
+ - Pasivo u Obligaciones con terceros
+ - Capital o Patrimonio
+ - Cuentas a Cobrar
+ - Sociedades colectivas
+ - Inventario de mercaderías
+
+
+Conjunto de deudas y obligaciones hacia terceras personas pendientes de pago a una fecha determinada, que están a cargo de la empresa.
+ - Activo o derechos
+ + Pasivo u Obligaciones con terceros
+ - Capital o Patrimonio
+ - Cuentas a Cobrar
+ - Sociedades colectivas
+ - Inventario de mercaderías
+
+
+Inversión efectuada por el propietario o socios de la empresa y la evolución del mismo.
+ - Activo o derechos
+ - Pasivo u Obligaciones con terceros
+ + Capital o Patrimonio
+ - Cuentas a Cobrar
+ - Sociedades colectivas
+ - Inventario de mercaderías
+
+
+Activo donde no sólo incluye los billetes y monedas, sino los cheques recibidos como pago de clientes
+ + Caja o efectivo
+ - Bancos
+ - Cuentas a Cobrar
+ - Documentos a cobrar
+ - Inventario de mercaderías
+ - Inventarios de material de reparación
+
+
+Activo que corresponde al efectivo en cuentas corrientes bancarias de libre disponibilidad
+ - Caja o efectivo
+ + Bancos
+ - Cuentas a Cobrar
+ - Documentos a cobrar
+ - Inventarios de material de reparación
+ - Terrenos
+
+
+Activos que son deudas por cobrar con solo compromiso verbal de pago.
+ - Caja o efectivo
+ - Bancos
+ + Cuentas a Cobrar
+ - Documentos a cobrar
+ - Inventario de mercaderías
+ - Muebles y enseres
+ - Inventarios de material de reparación
+ 
+
+Activos que son deudas pendientes de cobro respaldados con letras de cambio o pagarés.
+ - Caja o efectivo
+ - Bancos
+ - Cuentas a Cobrar
+ + Documentos a cobrar
+ - Inventario de mercaderías
+ - Inventarios de material de reparación
+ 
+
+Activo que corresponde al valor de las existencias de mercaderias disponibles para la venta
+ - Caja o efectivo
+ - Bancos
+ - Documentos a cobrar
+ + Inventario de mercaderías
+ - Muebles y enseres
+ - Inventarios de material de reparación
+
+
+Activo que se refiere al valor de las vitrinas, escritorios, máquinas de escribir, de calcular, mesas sillas, etc. de uso de la empresa.
+ - Caja o efectivo
+ - Cuentas a Cobrar
+ - Inventario de mercaderías
+ + Muebles y enseres
+ - Inventarios de material de reparación
+ - Edificios
+
+
+Activo que corresponde a las existencias de materiales disponibles para utilizar en reparaciones.
+ - Caja o efectivo
+ - Cuentas a Cobrar
+ - Documentos a cobrar
+ - Inventario de mercaderías
+ - Muebles y enseres
+ + Inventarios de material de reparación
+
+
+Activo que corresponde al valor del terreno sobre el cual están contruidos las instalaciones de la empresa
+ - Caja o efectivo
+ - Bancos
+ - Inventario de mercaderías
+ - Inventarios de material de reparación
+ + Terrenos
+ - Edificios
+
+
+Activo que corresponde al valor de las contrucciones que utiliza el negocios, etc.
+ - Cuentas a Cobrar
+ - Documentos a cobrar
+ - Inventario de mercaderías
+ - Inventarios de material de reparación
+ - Terrenos
+ + Edificios
+
+
+La ecuación de contabilidad, o ecuación contable, es uno de los conceptos fundamentales en contabilidad
+ + Activo = Pasivo + Capital
+ + Capital = Activo - Pasivo
+ - Activo = Pasivo - Capital
+ - Patrimonio = Activo + Pasivo
+ - Activo = Capital - Pasivo
+ - Pasivo = Activo + Capital
+
+
+ Pasivo por compra de bienes a crédito con solo compromiso verbal de pago.
+  + Cuentas a pagar
+  - Documentos a pagar
+  - Sueldos y salarios a pagar
+  - Aportes y retenciones a pagar
+  - Hipotecas a pagar
+  - Impuestos a pagar
+
+
+Pasivo por deudas respadas con letras de cambio o pagarés.
+  - Cuentas a pagar
+  + Documentos a pagar
+  - Sueldos y salarios a pagar
+  - Aportes y retenciones a pagar
+  - Hipotecas a pagar
+  - Impuestos a pagar
+
+
+Pasivo por deudas por sueldos al personal de la empresa.
+  - Cuentas a pagar
+  - Documentos a pagar
+  + Sueldos y salarios a pagar
+  - Aportes y retenciones a pagar
+  - Hipotecas a pagar
+  - Impuestos a pagar
+
+
+Pasivo por deudas por aportes patronales y laborales a las instituciones de seguridad social y al SNII.
+  - Cuentas a pagar
+  - Documentos a pagar
+  - Sueldos y salarios a pagar
+  + Aportes y retenciones a pagar
+  - Hipotecas a pagar
+  - Impuestos a pagar
+
+
+Pasivo por préstamos obtenidos con garantía hipotecario de un bien inmueble.
+  - Cuentas a pagar
+  - Documentos a pagar
+  - Sueldos y salarios a pagar
+  - Aportes y retenciones a pagar
+  + Hipotecas a pagar
+  - Impuestos a pagar
+
+
+Pasivo por obligaciones tributarias pendientes de pago, etc.
+  - Cuentas a pagar
+  - Documentos a pagar
+  - Sueldos y salarios a pagar
+  - Aportes y retenciones a pagar
+  - Hipotecas a pagar
+  + Impuestos a pagar
+
+
+Aquellos hechos que debido a la naturaleza de la transacción no modifican en lo absoluto el capital inicial.
+ + Permutativos
+ - Modificativos
+ - Combinatorios
+ - Multiplicativos
+ - Aditivos
+ - Controladores
+
+
+Aquellos hechos que debido a la naturaleza de la transacción, modifican el capital inicial aumentado (ingresos) o disminuyendo (gastos).
+ - Permutativos
+ + Modificativos
+ - Combinatorios
+ - Multiplicativos
+ - Aditivos
+ - Controladores
+
+

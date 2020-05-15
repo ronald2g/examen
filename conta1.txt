@@ -1,0 +1,92 @@
+Módulo: Contabilidad
+Tema: Introducción a la contabilidad
+Número de preguntas: 15
+Puntaje por pregunta: 5
+
+
+Desde el punto de vista de su naturaleza las empresas se clasifican en:
+ + Comerciales
+ + Industriales
+ + Servicios
+ - Colectivas
+ - Accidentales
+ - Unipersonales
+
+
+Desde el punto de vista de su organización las empresas se clasifican en:
+ + Unipersonales
+ + Sociedades
+ - Comerciales
+ - Industriales
+ - Servicios
+
+
+El código de comercio vigente reconoce las siguientes clases de sociedades:
+ + Colectivas
+ + Responsabilidad Limitada
+ + Comandita Simple
+ + Comandita por Acciones
+ + Sociedad Anónimas
+ + Accidentales
+ - Publicas
+ - Privadas
+ - Socidad Simple
+
+
+En las sociedades colectivas la responsabilidad de los socios es:
+ + Solidaria respecto a las obligaciones sociales
+ + Ilimitada respecto a las obligaciones sociales
+ - Limitada hasta el monto de sus cuotas de capital
+ - Limitada respecto a las obligaciones sociales
+ - limitada hasta el número de acciones que posean
+
+
+En sociedades de responsabilidad limitada la responsabilidad de sus socios es:
+ + Limitada hasta el monto de sus cuotas de capital
+ + Limitada respecto a las obligaciones sociales
+ - Solidaria respecto a las obligaciones sociales
+ - Ilimitada respecto a las obligaciones sociales
+ - limitada hasta el número de acciones que posean
+
+
+La sociedad en Comandita Simple esta compuesta por:
+ + Socios colectivos o gestores
+ + Socios comanditarios
+ - Socios Simples
+ - Socios comanditarios por acciones
+ - Socios con acciones
+
+
+La socidad en comandita por acciones compuesta por 
+ + Socios colectivos o gestores
+ + Socios comanditarios por acciones
+ - Socios Simples
+ - Socios unipersonales
+ - Socios con acciones
+
+
+En sociedades Anominas la responsabilidad de sus socios es:
+ + limitada hasta el número de acciones que posean
+ - Limitada hasta el monto de sus cuotas de capital
+ - Limitada respecto a las obligaciones sociales
+ - Solidaria respecto a las obligaciones sociales
+ - Ilimitada respecto a las obligaciones sociales
+ 
+
+La socidad Accidental esta compuesta por:
+ + Socios colectivos o gestores
+ + Socios no gestores sin responsabilidad ante terceros
+ - Socios Simples
+ - Socios unipersonales
+ - Socios con acciones
+
+
+La contabilida es un sistama de información que esta basado en:
+ + Registra en forma ordena los hechos económicos y financieros
+ + Tiene el fin de emitir los estados financieros
+ + Analizar e interpretar la situación económica y financiera
+ + Permite tomar decisiones oportunas
+ - Formada por el patrimonio de uno o más socios
+ - Organismo social integrado por elementos humanos, técnicos y materiales
+ - Cuyo objetivo principal es la obtención de utilidades
+
